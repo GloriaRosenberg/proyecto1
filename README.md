@@ -49,7 +49,7 @@ La mejor manera de ahorrar costes sería apagar el servidor (detener, no termina
 
 ## Enlace al video
 
-[Enlace de Google Drive](https://drive.google.com/file/d/1YG60gJjuzOexS0N2FikaPXFZsNggRkEr/view?usp=sharing)
+[Enlace de YouTube](https://youtu.be/_xSLU2qtbpU)
 
 ## Uso de IA
 
