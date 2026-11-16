@@ -25,11 +25,16 @@ Route 53 con registros
 
 ## Capturas de las webs
 
-Captura de la web en la instancia EC2
+**Captura de la web en la instancia EC2**
+
 ![Captura de la web en la instancia EC2](img/web_EC2.png)
-Captura de la web en la segunda instancia EC2
+
+**Captura de la web en la segunda instancia EC2**
+
 ![Captura de la web en la segunda instancia EC2](img/web_EC2_2.png)
-Captura de la web creada desde CLI
+
+**Captura de la web creada desde CLI**
+
 ![Captura de la web creada desde CLI](img/web_EC2_CLI.png)
 
 ## Explicación sobre la subred pública y acceso a SSH
